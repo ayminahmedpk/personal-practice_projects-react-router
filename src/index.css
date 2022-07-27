@@ -24,3 +24,27 @@ button {
 .component            { margin-top  : 4rem   ; }
 .component .component { margin-left : 4rem   ; }
 .component__name      { text-align  : center ; }
+
+
+.navbar {
+  background-color : #777777;
+  /* display          : flex; */ /*Not needed if child inline-block*/
+}
+
+.navbar__link {
+  display         : inline-block   ;
+  padding         : 0.75rem 2.5rem ;
+  text-decoration : none           ;
+  color           : white        ;
+  cursor          : pointer        ;
+}
+
+
+.navbar__link.active {
+  background-color : #474747 ;
+  
+}
+
+.navbar__link:hover {
+  text-decoration: underline;
+}

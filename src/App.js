@@ -1,8 +1,10 @@
 import React from "react";
 
+import LessonRoot3 from "./Lessons/03-navigation-navlink/LessonRoot3";
+
 function App() {
   return (
-    <>React Router App</>
+    <LessonRoot3/>
   );
 }
 
