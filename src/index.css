@@ -48,3 +48,7 @@ button {
 .navbar__link:hover {
   text-decoration: underline;
 }
+
+input {
+  padding: 0.25rem;
+}
