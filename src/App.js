@@ -1,10 +1,10 @@
 import React from "react";
 
-import LessonRoot3 from "./Lessons/03-navigation-navlink/LessonRoot3";
+import LessonRoot4 from "./Lessons/04-navigation-programmatic/LessonRoot4";
 
 function App() {
   return (
-    <LessonRoot3/>
+    <LessonRoot4/>
   );
 }
 
