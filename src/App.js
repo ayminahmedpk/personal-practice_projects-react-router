@@ -1,10 +1,11 @@
 import React from "react";
 
-import LessonRoot7 from "./Lessons/07-dynamic-routes/LessonRoot7";
+import LessonRoot9 from "./Lessons/9-lazy-loading-suspense/LessonRoot9";
+
 
 function App() {
   return (
-    <LessonRoot7/>
+    <LessonRoot9/>
   );
 }
 

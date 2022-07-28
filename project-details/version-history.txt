@@ -1,5 +1,10 @@
 
 
+0.1.5:
+  - lazy loading (and react suspense)
+  - searchparams (query string)
+
+
 0.1.4:
   - dynamic routes (getting dynamic url parameter)
 
